@@ -1,0 +1,16 @@
+*
+{ 
+  box-sizing:border-box  
+}
+.body
+{
+	font-family:Arial;
+	font-weight:bold;
+	font-size:100%;
+	border-radius:20px; 
+}
+.chicken_sub
+{
+background-color:thistle;
+margin:20px
+}
