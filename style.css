@@ -25,7 +25,7 @@
 	  background-color: #ff9999;
 	  border: 1px solid black;
 	  padding: 5px 40px 5px 40px;
-
+	  width: 50%
 	  
   }
   
@@ -33,7 +33,7 @@
 	  background-color: #ff1a1a;
 	  border: 1px solid black;
 	  padding: 5px 50px 5px 50px;
-	 
+	  width: 50%
 	  
   }
   
@@ -41,6 +41,7 @@
 	  background-color: #ffcc66;
 	  border: 1px solid black;
 	  padding: 5px 50px 5px 50px;
+	  width: 50%
 
 
 	  
